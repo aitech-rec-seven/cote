@@ -6,11 +6,6 @@
 
 문제
 
-- 1475번 방번호
-  - https://www.acmicpc.net/problem/1475
-- 10808번 알파벳 개수
-  - https://www.acmicpc.net/problem/10808
-
 - 10828번: 스택
   - https://www.acmicpc.net/problem/10828
 - (선택) 2393번: 탑, 17928번: 오큰수
@@ -18,8 +13,6 @@
   - https://www.acmicpc.net/problem/17928 
 - 10845번: 큐
   - https://www.acmicpc.net/problem/10845 
-
-
 
 <br/>
 
