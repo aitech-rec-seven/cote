@@ -76,6 +76,9 @@ def main():
             else:
                 results.append("-1")
 
+        else:
+            pass
+        
     print("\n".join(results))
 
 main()
