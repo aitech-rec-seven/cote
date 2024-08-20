@@ -80,6 +80,8 @@ def main():
 
 main()
 
+# sys.stdin.read를 사용하여 모든 입력을 한번에 읽어서 메모리에 저장한 후, 필요한 대로 이를 처리
+
 # 시간: 44ms
 # input 크기: N(=len(data))
 # 시간복잡도: O(N)
