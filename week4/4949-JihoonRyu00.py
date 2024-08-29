@@ -45,3 +45,7 @@ def main():
     print("\n".join(results))
 
 main()
+
+# input 크기: M*N(=len(data)*len(string))
+# 시간복잡도: O(M*N)
+# 공간복잡도: O(M*N)
