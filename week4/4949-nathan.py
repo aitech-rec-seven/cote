@@ -24,3 +24,4 @@ while 1:
         print('yes')
     elif stack or flag==1:
         print('no')
+
